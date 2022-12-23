@@ -1,0 +1,16 @@
+name: bed
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - ipykernel
+  - matplotlib
+  - numpy
+  - openai
+  - pandas
+  - plotly
+  - scikit-learn
+  - scipy
+  - tenacity
