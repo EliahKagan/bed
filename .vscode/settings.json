@@ -1,13 +1,17 @@
 {
     "cSpell.words": [
         "conda",
+        "dtype",
         "ipykernel",
         "linalg",
         "matplotlib",
         "numpy",
         "openai",
         "plotly",
+        "Rudinger",
+        "safetensors",
         "scikit",
-        "scipy"
+        "scipy",
+        "Winogender"
     ]
 }

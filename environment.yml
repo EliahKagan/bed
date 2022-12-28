@@ -6,11 +6,17 @@ channels:
 dependencies:
   - python=3.11
   - ipykernel
-  - matplotlib
   - numpy
   - openai
+  - pip
+
+  # For openai.embeddings_utils (move above if used directly)
+  - matplotlib
   - pandas
   - plotly
   - scikit-learn
   - scipy
   - tenacity
+
+  - pip:
+    - safetensors
