@@ -9,6 +9,7 @@ dependencies:
   - numpy
   - openai
   - pip
+  - requests
 
   # For openai.embeddings_utils (move above if used directly)
   - matplotlib
