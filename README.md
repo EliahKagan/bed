@@ -10,6 +10,9 @@ intended as a tutorial for how to use embeddings.
 For instructive examples, see the official OpenAI repository
 [**openai-cookbook**](https://github.com/openai/openai-cookbook).
 
+This repository, *bed*, is like [*bedj*](https://github.com/EliahKagan/bedj),
+but this is in Python (with Jupyter notebooks) and is more extensive.
+
 ## License
 
 [0BSD](https://spdx.org/licenses/0BSD.html). See [**`LICENSE`**](LICENSE).
