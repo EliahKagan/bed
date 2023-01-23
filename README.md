@@ -19,6 +19,11 @@ For instructive examples, see the official OpenAI repository
 *Summary forthcoming.* For now, look at the descriptions at the top of each
 notebook.
 
+## Notes
+
+The examples are written to assume your API key is in a file called `.api_key`.
+Do not commit it to Git! The `.gitignore` file excludes it, to help avoid that.
+
 ## Matrix multiplication
 
 One interesting technique shown here is storing the embeddings as rows of a

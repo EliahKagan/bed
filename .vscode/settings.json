@@ -4,14 +4,17 @@
         "dtype",
         "ipykernel",
         "linalg",
+        "linewidth",
         "matplotlib",
         "numpy",
         "openai",
         "plotly",
+        "printoptions",
         "Rudinger",
         "safetensors",
         "scikit",
         "scipy",
+        "tablefmt",
         "Winogender"
     ]
 }
