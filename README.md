@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: 0BSD -->
 
-# Text embeddings via OpenAI - basic Python examples
+# Text embeddings via OpenAI - assorted Python examples
 
 These are some examples of embeddings using OpenAI models.
 
