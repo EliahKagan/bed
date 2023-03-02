@@ -6,20 +6,12 @@ name = "pypi"
 [packages]
 ipykernel = "*"
 numpy = "*"
-openai = "*"
-pip = "*"
+openai = {extras = ["embeddings"], version = "*"}
 requests = "*"
 safetensors = "*"
 tabulate = "*"
-matplotlib = "*"
-pandas = "*"
-plotly = "*"
-scikit-learn = "*"
-scipy = "*"
-tenacity = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.11"
-python_full_version = "3.11.1"
